@@ -18,7 +18,7 @@ The objective of this project is to identify:
 
 The project combines:
 - **Python** for data cleaning and preprocessing
-- **SQL (PostgreSQL)** for business analysis
+- **SQL (MySQL)** for business analysis
 - **Power BI** for interactive dashboard visualization
 
 ---
@@ -52,7 +52,7 @@ The goal was to leverage customer data to generate actionable business insights.
 | Python | Data Cleaning & Analysis |
 | Pandas | Data Manipulation |
 | NumPy | Numerical Operations |
-| PostgreSQL | SQL Analysis |
+| MySQL | SQL Analysis |
 | Power BI | Dashboard & Visualization |
 | Jupyter Notebook | Development Environment |
 
