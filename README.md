@@ -277,10 +277,10 @@ An interactive Power BI dashboard was built to visualize:
 
 # 📷 Dashboard Preview
 
-> Add your dashboard screenshot here
+> https://github.com/sreeharibepu777-lgtm/customer_behavior_analysis/blob/main/Dashboard.PNG?raw=true
 
 ```markdown
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](images/Dashboard.PNG)
 ```
 
 ---
